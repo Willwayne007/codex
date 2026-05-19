@@ -1,0 +1,143 @@
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.3.14:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.5s
+ ○ Compiling / ...
+ ✓ Compiled / in 6s (638 modules)
+ GET / 200 in 6697ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 1838ms (830 modules)
+ POST /api/analyze 200 in 2197ms
+ GET / 200 in 315ms
+ POST /api/analyze 200 in 34ms
+ GET / 200 in 686ms
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.3.14:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 1687ms (606 modules)
+ GET / 200 in 2667ms
+ GET / 200 in 248ms
+ GET / 200 in 149ms
+ GET / 200 in 663ms
+ ✓ Compiled in 1909ms (620 modules)
+ ✓ Compiled in 281ms (270 modules)
+ GET / 200 in 646ms
+ GET / 200 in 641ms
+ GET / 200 in 675ms
+ GET / 200 in 133ms
+ GET / 200 in 129ms
+ GET / 200 in 130ms
+ GET / 200 in 292ms
+ ✓ Compiled in 618ms (270 modules)
+ ✓ Compiled in 565ms (270 modules)
+ GET / 200 in 595ms
+ GET / 200 in 186ms
+ GET / 200 in 138ms
+ GET / 200 in 63ms
+ ✓ Compiled in 141ms (270 modules)
+ GET / 200 in 127ms
+ GET / 200 in 122ms
+ ✓ Compiled in 293ms (270 modules)
+ GET / 200 in 130ms
+ GET / 200 in 91ms
+ ✓ Compiled in 175ms (270 modules)
+ GET / 200 in 123ms
+ GET / 200 in 102ms
+ ✓ Compiled in 1388ms (620 modules)
+ GET / 200 in 320ms
+ GET / 200 in 319ms
+ ✓ Compiled in 589ms (620 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.5s (953 modules)
+ ✓ Compiled in 11.5s (953 modules)
+ GET / 500 in 17480ms
+ GET / 500 in 499ms
+ GET / 500 in 17491ms
+ GET / 500 in 499ms
+ GET / 500 in 1832ms
+ GET / 500 in 419ms
+ GET / 500 in 1833ms
+ GET / 500 in 419ms
+ GET / 500 in 1571ms
+ GET / 500 in 563ms
+ GET / 500 in 1757ms
+ GET / 500 in 621ms
+ GET / 500 in 1560ms
+ GET / 500 in 565ms
+ GET / 500 in 2490ms
+ GET / 500 in 899ms
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.3.14:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.7s
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 1381ms (490 modules)
+ POST /api/analyze 200 in 1833ms
+ POST /api/analyze 200 in 48ms
+ POST /api/analyze 200 in 12ms
+ POST /api/analyze 200 in 12ms
+ POST /api/analyze 200 in 11ms
+ POST /api/analyze 429 in 12ms
+ POST /api/analyze 429 in 11ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1952ms (831 modules)
+ GET / 200 in 2480ms
+ ✓ Compiled in 747ms (621 modules)
+ GET / 200 in 223ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 568ms (561 modules)
+ POST /api/analyze 200 in 1017ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 2.1s (1165 modules)
+ ✓ Compiled in 126ms (410 modules)
+ GET / 500 in 3344ms
+ ✓ Compiled in 550ms (755 modules)
+ GET / 200 in 545ms
+ GET / 200 in 38ms
+ GET / 200 in 309ms
+ GET / 200 in 287ms
+ GET / 200 in 178ms
+ GET / 200 in 162ms
+ GET / 200 in 181ms
+ ✓ Compiled in 471ms (423 modules)
+ ✓ Compiled in 1180ms (872 modules)
+ ✓ Compiled in 1058ms (872 modules)
+ ✓ Compiled in 892ms (874 modules)
+ ✓ Compiled in 530ms (876 modules)
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 1634ms (663 modules)
+ POST /api/analyze 400 in 2261ms
+ POST /api/analyze 400 in 2264ms
+ POST /api/analyze 200 in 18ms
+ POST /api/analyze 200 in 12ms
+ POST /api/analyze 200 in 11ms
+ POST /api/analyze 429 in 11ms
+ ✓ Compiled in 599ms (425 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 863ms (1170 modules)
+ GET / 500 in 4687ms
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.3.14:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.6s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.6s (624 modules)
+ GET / 200 in 3339ms
+ GET / 200 in 187ms
+ GET / 200 in 245ms
+ GET / 200 in 396ms
+ ○ Compiling /api/analyze ...
+ ✓ Compiled /api/analyze in 1319ms (837 modules)
+ POST /api/analyze 200 in 1724ms
+ GET / 200 in 560ms
+ GET / 200 in 558ms
